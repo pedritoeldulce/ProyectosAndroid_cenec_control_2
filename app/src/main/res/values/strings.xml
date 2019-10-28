@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">CNE_CON_2</string>
+    <string name="titulo">CENSO NACIONAL ECONÓMICO (2019-2020)</string>
+    <string name="saludo">BIENVENIDOS AL 2DO CONTROL DE LECTURA DEL CENSO NACIONAL ECONÓMICO (2019-2020)</string>
+    <string name="numero_control">2do Control de Lectura</string>
+    <string name="evaluacion">CONTROL DE LECTURA 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- EVAL 01 -->
+
+    <string name="eval01_comentario">I.	Lea detenidamente cada pregunta y circule la alternativa correcta (c/u 2 puntos).</string>
+    <string name="eval02_comentario">II. Lea los siguientes enunciados y escriba dentro de los parentesis verdadero (V) o falso (F) según corresponda: (c/u 1 punto).</string>
+    <string name="eval03_comentario">II. Relacione las dos columnas y escriba dentro del paréntesis el número que corresponda (c/u 2 puntos).</string>
+
+    <string name="eval01_p01">1. Es el punto GPS capturado dentro de un frente irregular y que tiene por finalidad darle forma a la manzana. Si el frente irregular presenta quiebres o curvas que hacen que la figura sea irregular, entonces tomar puntos complementarios con el aplicativo de la Tablet utilizando la opción: </string>
+    <string name="eval01_p01_puntaje">2 puntos</string>
+    <string name="eval01_p01_sub01">a.	Punto vertice</string>
+    <string name="eval01_p01_sub02">b.	Punto complementario</string>
+    <string name="eval01_p01_sub03">c.	Punto GPS</string>
+    <string name="eval01_p01_sub04">d.	Punto de inicio</string>
+
+
+    <string name="eval01_p02">2. Son las categorias bajo las cuales una persona natural o persona jurídica se registra cuando va a iniciar un negocio.</string>
+    <string name="eval01_p02_puntaje">2 puntos</string>
+    <string name="eval01_p02_sub01">a.	Organización jurídica</string>
+    <string name="eval01_p02_sub02">b.	Regimen tributario</string>
+    <string name="eval01_p02_sub03">c.	Razón social</string>
+    <string name="eval01_p02_sub04">d.	Nombre comercial</string>
+
+    <string name="eval01_p03">3. Solo en los casos que la manzana haya sido modificada se tomara una:</string>
+    <string name="eval01_p03_sub01">a.	Captura de imagen del frontis de la manzana modificada</string>
+    <string name="eval01_p03_sub02">b.	Captura de imagen al documento cartográfico en físico “croquis A”</string>
+    <string name="eval01_p03_sub03">c.	Captura a la vista panorámica de la manzana modificada in situ</string>
+    <string name="eval01_p03_sub04">d.	Captura de imagen al primer frente de la manzana producto de la modificación.</string>
+
+    <string name="eval01_p04">4. La elaboración del “Croquis B” se realizará:</string>
+    <string name="eval01_p04_sub01">a.	Al concluir su carga de trabajo el empadronador trasladará la información de la actualización cartográfica del Doc.CENEC.03.07A “croquis A”, al Doc.CENEC.03.07B “croquis B".</string>
+    <string name="eval01_p04_sub02">b.	Al concluir con la actualización cartográfica de toda la manzana el empadronador trasladará la información de la actualización cartográfica del Doc.CENEC.03.07A “croquis A”, al Doc.CENEC.03.07B “croquis B".</string>
+    <string name="eval01_p04_sub03">c.	Al concluir la actualización cartográfica y empadronamiento de toda la manzana el empadronador trasladará la información de la actualización cartográfica del Doc.CENEC.03.07A “croquis A”, al Doc.CENEC.03.07B “croquis B".</string>
+    <string name="eval01_p04_sub04">d.	Al finalizar el día procederá a trasladar la información de la actualización cartográfica del Doc.CENEC.03.07A “croquis A”, al Doc.CENEC.03.07B “croquis B".</string>
+
+
+    <string name="eval01_p05">5. Es el local de producción, venta o prestación de servicios en el que se ubica un establecimiento dentro de una edifcación, independientemente de otros, generalmente con puerta a la calle.</string>
+    <string name="eval01_p05_sub01">a.	Establecimiento</string>
+    <string name="eval01_p05_sub02">b.	Establecimiento concentrado</string>
+    <string name="eval01_p05_sub03">c.	Establecimiento particular</string>
+    <string name="eval01_p05_sub04">d.	Galeria</string>
+
+    <string name="eval01_p06_puntaje">10 puntos</string>
+
+    <string name="eval01_p06_caracteristicas">ENUNCIADO</string>
+    <string name="eval01_p06_a_sub01">1) DESAPARICION DE MANZANAS</string>
+    <string name="eval01_p06_a_sub02">2) UBICACIÓN CENSAL</string>
+    <string name="eval01_p06_a_sub03">3) REPLANTEO DE MANZANAS</string>
+    <string name="eval01_p06_a_sub04">4) ÁREA DE EMPADRONAMIENTO</string>
+    <string name="eval01_p06_a_sub05">5) DISTRITO</string>
+
+    <string name="eval01_p06_concepto">CONCEPTO </string>
+    <string name="eval01_p06_op01">Es la superficie territorial conformada por una o más manzanas con 150 establecimientos en promedio que se asigna a un empadronador.</string>
+    <string name="eval01_p06_op02">Es cuando una manzana que se encuentra dibujada en el croquis y luego de verificar las vías que la circundan, no se ubica en el terreno.</string>
+    <string name="eval01_p06_op03">Identifica la ubicación del establecimiento, según la cartografía del INEI.</string>
+    <string name="eval01_p06_op04">Cuando una o más manzanas han cambiado de forma y orientación, o sus dimensiones no coinciden con las originales</string>
+    <string name="eval01_p06_op05">Es el ambito geografico que corresponde a la division politica administrativa mas pequeña del país.</string>
+
+    <string name="eval01_p06_1">1. Enunciado 1</string>
+    <string name="eval01_p06_2">2. Enunciado 2</string>
+    <string name="eval01_p06_3">3. Enunciado 3</string>
+    <string name="eval01_p06_4">4. Enunciado 4</string>
+    <string name="eval01_p06_5">5. Enunciado 5</string>
+    <string name="eval01_p06_6">6. Enunciado 6</string>
+    <string name="eval01_p06_7">7. Enunciado 7</string>
+    <string name="eval01_p06_8">8. Enunciado 8</string>
+    <string name="eval01_p06_9">9. Enunciado 9</string>
+    <string name="eval01_p06_10">10. Enunciado 10</string>
+    <string name="eval01_verdadero">a. Verdadero \u0020\u0020\u0020</string>
+    <string name="eval01_falso">b. Falso</string>
+
+    <string name="eval01_p06">6.	¿Qué condiciones deben reunir los ambientes pedagógicos a ser registrados para su selección:</string>
+    <string name="eval01_p06_sub01">A) Pertenecer al nivel educativo seleccionado.</string>
+    <string name="eval01_p06_sub02">B) Es aula nueva que será utilizada después de su inauguración.</string>
+    <string name="eval01_p06_sub03">C) Estar en actividad al momento de la entrevista.</string>
+    <string name="eval01_p06_sub04">D) A y B</string>
+
+    <string name="eval01_p07">7.	Indique Ud., ¿Cuál de las alternativas es incorrecta, respecto a los materiales educativos 2019 distribuidos por el MINEDU, para las instituciones educativas de secundaria?</string>
+    <string name="eval01_p07_sub01">A) Textos escolares y manual para el docente de primer al quinto grado.</string>
+    <string name="eval01_p07_sub02">B) Kits de fuerzas y dinámica y kits cartográficos para la institución educativa.</string>
+    <string name="eval01_p07_sub03">C) Cuadernos de trabajo para primer al quinto grado.</string>
+    <string name="eval01_p07_sub04">D) A y B</string>
+
+    <string name="eval01_p08">8.	Indique Ud., ¿Cuál es la respuesta correcta respecto a la definición de la institución educativa?</string>
+    <string name="eval01_p08_sub01">A) Lugar donde se brinda la prestación del servicio educativo público o privado.</string>
+    <string name="eval01_p08_sub02">B) Es la principal instancia de gestión del sistema educativo descentralizado.</string>
+    <string name="eval01_p08_sub03">C) T/A</string>
+    <string name="eval01_p08_sub04">D) N/A</string>
+
+
+    <string name="eval01_p09">II.	LEA DETENIDAMENTE CADA ENUNCIADO DE LA COLUMNA (A) E IDENTIFIQUE SU CONCEPTO EN LA COLUMNA (B), REALICE LA RELACIÓN Y SELECCIONE EL CÓDIGO CORRECTO QUE LE CORRESPONDE AL CONCEPTO. VALE 1.5 PUNTO. </string>
+    <string name="eval01_p09_puntaje">7 puntos</string>
+    <string name="eval01_p09_caracteristicas">ENUNCIADO </string>
+    <string name="eval01_p09_sub01">1) Informante de la ENEDU</string>
+    <string name="eval01_p09_sub02">2) Acompañamiento pedagógico modalidad externa </string>
+    <string name="eval01_p09_sub03">3) IE de secundaria con modalidad Jornada Escolar Completa</string>
+    <string name="eval01_p09_sub04">4) Materiales educativos del MINEDU</string>
+    <string name="eval01_p09_sub05">5) Acompañante pedagógico</string>
+    <string name="eval01_p09_sub06">6) Currículo Nacional de la Educación Básica</string>
+    <string name="eval01_p09_sub07">7) Educación Intercultural Bilingüe</string>
+    <string name="eval01_p09_sub08">8) Formación Docente en Servicio</string>
+
+    <string name="eval01_p09_concepto">CONCEPTO </string>
+    <string name="eval01_p09_op01">Modelo de servicio educativo que prioriza la enseñanza de la lengua y cultura materna en una sociedad donde existen más de un idioma o cultura que se enseñan simultáneamente.</string>
+    <string name="eval01_p09_op02">Son distribuidos entre fines del año anterior y primer trimestre del año en curso, los mismos que deben ser renovados periódica o anualmente, para no limitar las experiencias de aprendizaje de los estudiantes.  </string>
+    <string name="eval01_p09_op03">Docente que brinda asesoramiento personalizado a los docentes de una IE donde no labora.</string>
+    <string name="eval01_p09_op04">Es el director de nivel inicial, primaria y secundaria, así como los docentes de las secciones seleccionadas de inicial, de segundo y cuarto grado de primaria y de segundo y quinto grado de secundaria de las áreas curriculares seleccionadas. </string>
+    <string name="eval01_p09_op05">Modelo de servicio educativo, propuesto por el Ministerio de Educación en beneficio de los estudiantes de educación secundaria, incrementando 10 horas pedagógicas de clases semanales. </string>
+    <string name="eval01_p09_op06">Desarrollo de un conjunto de experiencias de aprendizaje individuales y colectivas que tienen como propósito contribuir al fortalecimiento de competencias profesionales de los profesores en las cuatro áreas de desempeño laboral que la ley establece para la Carrera Pública Magisterial. </string>
+    <string name="eval01_p09_op07">Estrategia que se desarrolla a través de un profesional de la educación que no labora en la institución educativa de los docentes que acompaña.</string>
+    <string name="eval01_p09_op08">Establece los aprendizajes que se espera logren los estudiantes como resultado de la Educación Básica (Regular, Especial y Alternativa), en concordancia con los fines y principios de la educación peruana, el Proyecto Educativo Nacional y los objetivos de la Educación Básica.</string>
+
+    <string-array name="eval01_pregunta_4_opciones">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string name="verdadero">VERDADERO</string>
+    <string name="falso">FALSO</string>
+
+    <string-array name="cuestionario1_pregunta_4_opciones">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="cargo">
+        <item>EMPADRONADOR /JEFE DE BRIGADA</item>
+        <item>COORDINADOR DEPARTAMENTAL</item>
+        <item>ESPECIALISTA CARTOGRÁFICO</item>
+
+    </string-array>
+
+    <string-array name="sede_operativa">
+
+
+        <item>02 ANCASH-CHIMBOTE </item>
+        <item>03 ANCASH-HUARAZ</item>
+        <item>04 APURIMAC</item>
+        <item>05 AREQUIPA</item>
+        <item>06 AYACUCHO</item>
+        <item>07 CAJAMARCA</item>
+        <item>08 CUSCO</item>
+        <item>09 HUANCAVELICA</item>
+        <item>10 HUANUCO</item>
+        <item>12 JUNIN</item>
+        <item>15 CENTRAL-LIMA</item>
+        <item>16 LORETO</item>
+        <item>18 MOQUEGUA</item>
+        <item>20 PIURA</item>
+        <item>21 PUNO</item>
+        <item>26 UCAYALI</item>
+        <item>27 HUACHO</item>
+
+
+    </string-array>
+
+    <string-array name="aula">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+
+    </string-array>
+
+</resources>

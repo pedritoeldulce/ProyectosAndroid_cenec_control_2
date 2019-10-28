@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="#CEF6F5"
+    tools:context="com.example.ksanchez.enapp.activities.MainActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:textColor="#808080"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textSize="40sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="20"
+            android:text="@string/titulo"/>
+
+        <TextView
+            android:textColor="@color/colorDeTodosLosTextos"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textSize="40sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="20"
+            android:text="@string/numero_control"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_material"
+            android:layout_marginRight="@dimen/margin_material"
+            android:background="@drawable/portada_cenec"
+            android:orientation="vertical"
+            android:layout_marginBottom="10dp"
+            >
+            <LinearLayout
+                android:layout_marginLeft="@dimen/margin_material"
+                android:layout_marginRight="@dimen/margin_material"
+
+                android:id="@+id/content_referencia"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.7"
+                android:gravity="center">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="6"
+                    android:orientation="horizontal"
+                    android:paddingLeft="40dp"
+                    android:paddingRight="40dp"
+                    android:paddingTop="40dp"
+                    android:scaleType="fitCenter">
+
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:paddingTop="@dimen/layout_margin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="60dp"
+                android:layout_marginRight="60dp"
+                android:layout_weight="0.3"
+                android:orientation="vertical"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp">
+
+                <TextView
+                    android:layout_marginTop="80dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/texto_grande"
+                    android:textStyle="bold"
+                    android:text="Ingrese Token"
+                    android:textAlignment="center"
+                    android:textColor="#808080"/>
+                <EditText
+                    android:layout_gravity="center"
+                    android:id="@+id/txtToken"
+                    android:layout_width="200dp"
+                    android:layout_height="30dp"
+                    android:padding="5dp"
+                    android:gravity="center_horizontal"
+                    android:background="@drawable/borde_pregunta_enedu"
+                    android:inputType="text"
+                    />
+
+                <Button
+                    android:id="@+id/btnIngresar"
+                    android:layout_width="120dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/borde_redondo_boton"
+                    android:layout_marginTop="65dp"
+                    android:layout_marginRight="2dp"
+                    android:textStyle="bold"
+                    android:textSize="18dp"
+                    android:text="Ingresar"/>
+            </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
